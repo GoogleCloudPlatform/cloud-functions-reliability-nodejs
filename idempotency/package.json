@@ -1,0 +1,10 @@
+{
+  "dependencies":
+  {
+    "request" : "2.88.0",
+    "request-promise" : "4.2.2",
+    "firebase-admin" : "5.12.1",
+    "firebase-functions" : "1.1.0",
+    "@sendgrid/mail": "6.3.1"
+  }
+}
