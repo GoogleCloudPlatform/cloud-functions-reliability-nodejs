@@ -1,0 +1,11 @@
+{
+  "dependencies":
+  {
+    "random-item" : "1.0.0",
+    "request" : "2.88.0",
+    "request-promise" : "4.2.2",
+    "firebase-admin" : "5.12.1",
+    "firebase-functions" : "1.1.0",
+    "@google-cloud/pubsub": "0.20.1"
+  }
+}
